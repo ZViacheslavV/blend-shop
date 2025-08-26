@@ -197,7 +197,7 @@ export async function onCartBtnModalClick() {
       renderProducts(products);
       renderCartSummary(cartList, sum);
     } catch (err) {
-      console.error(`Error with wishlist page, ${err}`);
+      console.error(`Error with cart page, ${err}`);
     }
 }
 
