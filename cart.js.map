@@ -1,1 +1,1 @@
-{"version":3,"file":"cart.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"cart.js","sources":["../src/cart.js"],"sourcesContent":["import { handleProductClick, initCartPage } from './js/handlers';\nimport { refs } from './js/refs';\n\n//Логіка сторінки Cart\ndocument.addEventListener('DOMContentLoaded', initCartPage);\n\nrefs.productsList.addEventListener('click', handleProductClick);\n"],"names":["initCartPage","refs","handleProductClick"],"mappings":"oGAIA,SAAS,iBAAiB,mBAAoBA,CAAY,EAE1DC,EAAK,aAAa,iBAAiB,QAASC,CAAkB"}
