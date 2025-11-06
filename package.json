@@ -1,11 +1,11 @@
 {
-  "name": "blended-products-refined",
+  "name": "blend-shop",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/blended-products-refined/",
+    "build": "vite build --base=/blend-shop/",
     "preview": "vite preview"
   },
   "devDependencies": {
