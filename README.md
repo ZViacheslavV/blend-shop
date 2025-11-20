@@ -15,3 +15,4 @@
 - Saving user's choices in local storage
 - User notofocations for actions
 - Fast development reload with Vite
+- BEM methodology
