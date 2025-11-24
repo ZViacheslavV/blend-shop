@@ -7,7 +7,7 @@
 ## Tech Stack
 - **HTML, CSS, JS** core web technologies
 - **Vite** fast dev server and build tool
-- **Libraries**: Axios (HTTP) requests, izitoast (notofocations)
+- **Libraries**: Axios (HTTP) requests, izitoast (notifications)
 
 ## Key Features
 - Display products and basic shop interface
