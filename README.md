@@ -13,6 +13,6 @@
 - Display products and basic shop interface
 - Adding products to wishlist and cart
 - Saving user's choices in local storage
-- User notofications for actions
+- User notifications for actions
 - Fast development reload with Vite
 - BEM methodology
