@@ -11,8 +11,8 @@
 
 ## Key Features
 - Display products and basic shop interface
-- Adding products to wihlist and cart
+- Adding products to wishlist and cart
 - Saving user's choices in local storage
-- User notofocations for actions
+- User notofications for actions
 - Fast development reload with Vite
 - BEM methodology
